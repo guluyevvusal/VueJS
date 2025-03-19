@@ -1,4 +1,4 @@
-# My Anime Tracker 🎌  
+# My Anime Tracker 
 
 A simple Vue.js anime tracking app that allows users to search, add, and manage their watched episodes.  
 
